@@ -1,0 +1,45 @@
+@page "/blog"
+@attribute [StreamRendering]
+
+<PageTitle>Blog</PageTitle>
+
+<h1>Blog</h1>
+
+@if (Posts == null)
+{
+    <p><em>Ładowanie…</em></p>
+}
+else
+{
+    <p>Below is a list of static example posts.</p>
+
+    @foreach (var post in Posts)
+    {
+        <div class="card mb-3">
+            <div class="card-body">
+                <h5 class="card-title">@post.Title</h5>
+                <h6 class="card-subtitle mb-2 text-muted">@post.Date.ToString("yyyy-MM-dd")</h6>
+                <p class="card-text">@post.Excerpt</p>
+            </div>
+        </div>
+    }
+}
+
+@code {
+    private record Post(string Title, DateTime Date, string Excerpt);
+
+    private List<Post>? Posts;
+
+    protected override async Task OnInitializedAsync()
+    {
+        // Artificial delay to demonstrate streaming/prerendering behavior
+        await Task.Delay(1500);
+
+        Posts = new List<Post>
+        {
+            new Post("Getting started with BlogSsr", new DateTime(2025, 1, 10), "A short introduction to the BlogSsr project and how to use it."),
+            new Post("Server-side rendering basics", new DateTime(2025, 2, 15), "Why SSR matters and how Blazor handles it."),
+            new Post("Deploying to production", new DateTime(2025, 3, 20), "Checklist and tips for deploying a Blazor app.")
+        };
+    }
+}
