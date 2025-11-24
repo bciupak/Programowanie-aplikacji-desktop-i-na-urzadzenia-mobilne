@@ -1,0 +1,13 @@
+C:\Users\barte\OneDrive\Pulpit\studia\sem5\prog_aplikacji_desktop\lab5\ShopPlatform\ShopPlatform.ServiceDefaults\bin\Debug\net8.0\ShopPlatform.ServiceDefaults.deps.json
+C:\Users\barte\OneDrive\Pulpit\studia\sem5\prog_aplikacji_desktop\lab5\ShopPlatform\ShopPlatform.ServiceDefaults\bin\Debug\net8.0\ShopPlatform.ServiceDefaults.dll
+C:\Users\barte\OneDrive\Pulpit\studia\sem5\prog_aplikacji_desktop\lab5\ShopPlatform\ShopPlatform.ServiceDefaults\bin\Debug\net8.0\ShopPlatform.ServiceDefaults.pdb
+C:\Users\barte\OneDrive\Pulpit\studia\sem5\prog_aplikacji_desktop\lab5\ShopPlatform\ShopPlatform.ServiceDefaults\obj\Debug\net8.0\ShopPlatform.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\barte\OneDrive\Pulpit\studia\sem5\prog_aplikacji_desktop\lab5\ShopPlatform\ShopPlatform.ServiceDefaults\obj\Debug\net8.0\ShopPlatform.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barte\OneDrive\Pulpit\studia\sem5\prog_aplikacji_desktop\lab5\ShopPlatform\ShopPlatform.ServiceDefaults\obj\Debug\net8.0\ShopPlatform.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\barte\OneDrive\Pulpit\studia\sem5\prog_aplikacji_desktop\lab5\ShopPlatform\ShopPlatform.ServiceDefaults\obj\Debug\net8.0\ShopPlatform.ServiceDefaults.AssemblyInfo.cs
+C:\Users\barte\OneDrive\Pulpit\studia\sem5\prog_aplikacji_desktop\lab5\ShopPlatform\ShopPlatform.ServiceDefaults\obj\Debug\net8.0\ShopPlatform.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\barte\OneDrive\Pulpit\studia\sem5\prog_aplikacji_desktop\lab5\ShopPlatform\ShopPlatform.ServiceDefaults\obj\Debug\net8.0\ShopPlatform.ServiceDefaults.sourcelink.json
+C:\Users\barte\OneDrive\Pulpit\studia\sem5\prog_aplikacji_desktop\lab5\ShopPlatform\ShopPlatform.ServiceDefaults\obj\Debug\net8.0\ShopPlatform.ServiceDefaults.dll
+C:\Users\barte\OneDrive\Pulpit\studia\sem5\prog_aplikacji_desktop\lab5\ShopPlatform\ShopPlatform.ServiceDefaults\obj\Debug\net8.0\refint\ShopPlatform.ServiceDefaults.dll
+C:\Users\barte\OneDrive\Pulpit\studia\sem5\prog_aplikacji_desktop\lab5\ShopPlatform\ShopPlatform.ServiceDefaults\obj\Debug\net8.0\ShopPlatform.ServiceDefaults.pdb
+C:\Users\barte\OneDrive\Pulpit\studia\sem5\prog_aplikacji_desktop\lab5\ShopPlatform\ShopPlatform.ServiceDefaults\obj\Debug\net8.0\ref\ShopPlatform.ServiceDefaults.dll
